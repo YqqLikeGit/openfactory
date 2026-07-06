@@ -45,7 +45,7 @@ your volumes, and your supplier's order book set the real price. The skills say 
 ## Install
 
 ```bash
-git clone https://github.com/OWNER/openfactory
+git clone https://github.com/YqqLikeGit/openfactory
 mkdir -p ~/.claude/skills
 cp -r openfactory/skills/* ~/.claude/skills/
 ```
